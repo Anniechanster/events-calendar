@@ -1,0 +1,21 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+.sun,
+.mon,
+.tues,
+.wed,
+.thu,
+.fri,
+.sat {
+  border: 1px solid #ccc;
+}
+
+td {
+  border: 1px solid #ccc;
+}
